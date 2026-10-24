@@ -1,0 +1,6 @@
+{
+  "name": "Sahabat PAI",
+  "description": "Aplikasi pembelajaran Pendidikan Agama Islam interaktif dengan gamifikasi, kisah nabi, kuis, latihan tajwid, amalan harian, dan asisten belajar AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
